@@ -8,4 +8,3 @@ Mario Changes
    Lugi Changes
 
 4. Awesome feature Commit - Lugi 1
-5. Awesome feature Commit - Lugi 2
