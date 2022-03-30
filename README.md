@@ -4,5 +4,3 @@
 2. Tom Commit 2
 
 # Jerry Changes
-
-1. Jerry Commit 1
