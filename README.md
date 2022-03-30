@@ -6,5 +6,3 @@ Mario Changes
 2. Commit - 2
 3. Commit - 3
    Lugi Changes
-
-4. Awesome feature Commit - Lugi 1
